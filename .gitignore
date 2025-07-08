@@ -1,0 +1,8 @@
+```gitignore
+__pycache__/
+*.pyc
+output/
+*.zip
+*.pdf
+.env
+.vscode/
